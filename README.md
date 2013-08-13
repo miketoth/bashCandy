@@ -1,4 +1,4 @@
-bashCandy
-=========
+Bash Candy
+==========
 
-Collection of bash scripts that are in my .bashrc or that I use frequently
+Results of me bashing my head against my keyboard
